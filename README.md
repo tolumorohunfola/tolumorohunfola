@@ -3,7 +3,7 @@
 I am an enthusiastic software developer with experience using python and SQL.
 
 - 🔭 I’m currently working on designing a task management app for my tasks to be automatically sorted by importance, urgency and time available.
-- 🌱 I’m currently refreshing my Python knowledge on Codecademy.
+- 🌱 I’m currently learning to use React.
 <!-- - 👯 I’m looking to collaborate on an e-commerce website.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... 
